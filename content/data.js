@@ -6,10 +6,10 @@ window.PORTFOLIO_DATA = {
     intro: "QA Automation Engineer with 5 years of hands-on experience across enterprise banking and telecom applications, focused on scalable automation, early defect detection and reliable release validation.",
     availability: "OPEN TO QA AUTOMATION OPPORTUNITIES",
     location: "Pune, India",
-    yearsExperience: "5",
+    yearsExperience: "5+",
     email: "lokareanirudha@gmail.com",
-    linkedin: "https://linkedin.com/in/aniruddha-lokare",
-    github: "#",
+    linkedin: "https://www.linkedin.com/in/aniruddhalokare/",
+    github: "https://github.com/AniruddhaLokare",
     resume: "Aniruddha_Lokare_Resume.pdf"
   },
 
@@ -25,7 +25,7 @@ window.PORTFOLIO_DATA = {
   },
 
   stats: [
-    { value: "5", label: "Years QA Automation" },
+    { value: "5+", label: "Years QA Automation" },
     { value: "115+", label: "Automated Test Cases" },
     { value: "100+", label: "UFT / VBScript Tests" },
     { value: "30%", label: "Lower Framework Maintenance" }
