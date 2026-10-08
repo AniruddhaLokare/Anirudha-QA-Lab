@@ -1,0 +1,14 @@
+node_modules/
+tests/
+scripts/
+.github/
+.vscode/
+playwright-report/
+test-results/
+*.bat
+*.md
+*.txt
+package-lock.json
+package.json
+playwright.config.ts
+tsconfig.json

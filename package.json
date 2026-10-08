@@ -1,0 +1,19 @@
+{
+  "name": "aniruddha-qa-lab",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Editable QA automation portfolio with real Playwright E2E checks",
+  "scripts": {
+    "start": "node scripts/serve.mjs",
+    "test": "playwright test",
+    "test:headed": "playwright test --headed",
+    "test:ui": "playwright test --ui",
+    "test:report": "playwright show-report",
+    "test:chromium": "playwright test --project=chromium",
+    "test:mobile": "playwright test --project=mobile-chrome"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.58.0",
+    "typescript": "^5.9.3"
+  }
+}
